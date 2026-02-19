@@ -1,6 +1,6 @@
 # Runjia's Codebase for Andrew Ng's Agentic Course
 
-[Course Link](https://learn.deeplearning.ai/courses/agentic-ai/lesson/)
+[Course Link](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
 
 ## Python Environments
 
