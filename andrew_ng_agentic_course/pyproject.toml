@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "aisuite==0.1.11",
     "anthropic>=0.82.0",
+    "dlai-grader>=2.3.0",
     "docstring-parser>=0.17.0",
     "duckdb>=1.4.4",
     "fastapi>=0.129.0",
